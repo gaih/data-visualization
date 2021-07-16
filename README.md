@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="images/logo.png" height=200px>
+    <img src="logo.png" height=200px>
 </div>
 
 # Data Visualization
