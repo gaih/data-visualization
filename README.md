@@ -4,7 +4,7 @@
 
 # Data Visualization
 
-You can find more information about our Data Visualization Course by visiting [Course Website](https://globalaihub.com/courses/introduction-to-python-turkish/)
+You can find more information about our Data Visualization Course by visiting [Course Website](https://globalaihub.com/courses/veri-gorsellestirme-canli-egitimi/)
 
 ---
 
