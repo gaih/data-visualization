@@ -22,6 +22,7 @@ Data visualization greatly helps a data scientist to determine in advance whethe
 
 ### Introduction to Data
 - What is Data
+- What is Data Visualization?
 - Advantages of Data Visualization
 - Data Types 
 
@@ -36,11 +37,12 @@ Data visualization greatly helps a data scientist to determine in advance whethe
 
 ### End-to-end Applied Data Visualization Project
 - Titanic Dataset
-- Data Cleaning
+- Exploratory Data Analysis
+- Data Preprocessing
 - Defining Data Visualization Types
-- Creating Report 
+- Creating Report
 
 ### Epilogue
 - Practical Use Of What Has Been Learned
 - Further Projects
-- What’s Next
+- What’s Next?
